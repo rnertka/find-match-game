@@ -1,6 +1,5 @@
 <template>
   <div class="game-area">
-    <p> {{answer}} </p>
     <h1 class="title">Can you guess the cat-card you are holding ?</h1>
     <h4 class="description">
       Select a card from you can see. Than click on yours!
